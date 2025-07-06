@@ -1,0 +1,2759 @@
+{
+  "upload_info": {
+    "source": "J7 Shield Google Takeout",
+    "upload_date": "/Users/joaolucasvivas/Documents/augment-projects/Lucas AI Agent",
+    "workspace_path": "/Users/joaolucasvivas/Documents/augment-projects/Lucas AI Agent"
+  },
+  "files": {
+    ".DS_Store": {
+      "size_bytes": 6148,
+      "size_mb": 0.01
+    },
+    "All mail Including Spam and Trash-002.mbox": {
+      "size_bytes": 7012162925,
+      "size_mb": 6687.32
+    },
+    "Takeout 2/.DS_Store": {
+      "size_bytes": 6148,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled spreadsheet(1).xlsx": {
+      "size_bytes": 6873,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(27).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Arquitetos - RJ.xlsx": {
+      "size_bytes": 263018,
+      "size_mb": 0.25
+    },
+    "Takeout 5/Drive/Big list - Scraper Sniper.xlsx": {
+      "size_bytes": 920504,
+      "size_mb": 0.88
+    },
+    "Takeout 5/Drive/Untitled document(2).docx": {
+      "size_bytes": 8162,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Arquitetos - RJ (GPT Scrap).json": {
+      "size_bytes": 2842,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Untitled document(46).docx": {
+      "size_bytes": 7637,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Joao Lucas - Cover Letter.docx": {
+      "size_bytes": 7561,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/monthly_notes.csv": {
+      "size_bytes": 1624,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Cli\u0301nica-de-Dermatologia-no-Rio-de-Janeiro-(04-.csv": {
+      "size_bytes": 578864,
+      "size_mb": 0.55
+    },
+    "Takeout 5/Drive/Untitled document(44).docx": {
+      "size_bytes": 6807,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(25).docx": {
+      "size_bytes": 6469,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(18).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Script de Ligac\u00e3o.docx": {
+      "size_bytes": 13594,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Lista teste (1).csv": {
+      "size_bytes": 40422,
+      "size_mb": 0.04
+    },
+    "Takeout 5/Drive/Untitled spreadsheet(3).xlsx": {
+      "size_bytes": 4597,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Arquitetos - RJ.csv": {
+      "size_bytes": 532278,
+      "size_mb": 0.51
+    },
+    "Takeout 5/Drive/Untitled document(21).docx": {
+      "size_bytes": 6392,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Joao Lucas - Resume.pdf": {
+      "size_bytes": 47237,
+      "size_mb": 0.05
+    },
+    "Takeout 5/Drive/Hoteis RJ Cidade.csv": {
+      "size_bytes": 1365892,
+      "size_mb": 1.3
+    },
+    "Takeout 5/Drive/Copy of [MODELO] Adapta - 6Ps de Copy(2).docx": {
+      "size_bytes": 15190,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Bard - 1.xlsx": {
+      "size_bytes": 10308,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled spreadsheet(7).xlsx": {
+      "size_bytes": 6879,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(38).docx": {
+      "size_bytes": 6495,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/identidade.jpeg": {
+      "size_bytes": 674019,
+      "size_mb": 0.64
+    },
+    "Takeout 5/Drive/Exercise Sample.docx": {
+      "size_bytes": 10149,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(40).docx": {
+      "size_bytes": 6575,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Objecoes - Leads Magnets.docx": {
+      "size_bytes": 17673,
+      "size_mb": 0.02
+    },
+    "Takeout 5/Drive/Untitled document(4).docx": {
+      "size_bytes": 6573,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(42).docx": {
+      "size_bytes": 289441,
+      "size_mb": 0.28
+    },
+    "Takeout 5/Drive/Untitled document(6).docx": {
+      "size_bytes": 6682,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Empresas-de-construc\u0327a\u0303o-civil-em-Rio-Branco.-(.csv": {
+      "size_bytes": 1314305,
+      "size_mb": 1.25
+    },
+    "Takeout 5/Drive/Conselho Tutelar I - S\u00e3o Gon\u00e7alo.docx": {
+      "size_bytes": 357912,
+      "size_mb": 0.34
+    },
+    "Takeout 5/Drive/Lucas Vivas - Resume.docx": {
+      "size_bytes": 1596016,
+      "size_mb": 1.52
+    },
+    "Takeout 5/Drive/Untitled spreadsheet(5).xlsx": {
+      "size_bytes": 15166,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Copy of Job Prospecting Tracker.xlsx": {
+      "size_bytes": 5429,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(23).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Funil de Prospec\u00e7\u00e3o Archi.xlsx": {
+      "size_bytes": 60394,
+      "size_mb": 0.06
+    },
+    "Takeout 5/Drive/Media Buyer Assignment - Joao.docx": {
+      "size_bytes": 305138,
+      "size_mb": 0.29
+    },
+    "Takeout 5/Drive/Untitled document(45).docx": {
+      "size_bytes": 6403,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(1).docx": {
+      "size_bytes": 7857,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Sniper second one.xlsx": {
+      "size_bytes": 59316,
+      "size_mb": 0.06
+    },
+    "Takeout 5/Drive/Untitled document(19).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Joao - Job Description.docx": {
+      "size_bytes": 9357,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/tentativa3.txt": {
+      "size_bytes": 2432,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Untitled spreadsheet(2).xlsx": {
+      "size_bytes": 13340,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document.docx": {
+      "size_bytes": 6714,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(24).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Decisores.xlsx": {
+      "size_bytes": 6341,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Escritorios de Arquitetura - Maps scraper.csv": {
+      "size_bytes": 566317,
+      "size_mb": 0.54
+    },
+    "Takeout 5/Drive/Lojas-de-Autopec\u0327as-no-Rio-de-Janeiro-(04-19-20.csv": {
+      "size_bytes": 144757,
+      "size_mb": 0.14
+    },
+    "Takeout 5/Drive/Untitled document(26).docx": {
+      "size_bytes": 6422,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Luke Mentorship.docx": {
+      "size_bytes": 7584,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Screen Shot 2022-06-16 at 3.42.07 PM(1).png": {
+      "size_bytes": 914050,
+      "size_mb": 0.87
+    },
+    "Takeout 5/Drive/CPS - Suggestions_.docx": {
+      "size_bytes": 1129260,
+      "size_mb": 1.08
+    },
+    "Takeout 5/Drive/Lista Archi2 - resultados.csv": {
+      "size_bytes": 11182,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Sample Result.csv": {
+      "size_bytes": 2650,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/boleto.pdf": {
+      "size_bytes": 63967,
+      "size_mb": 0.06
+    },
+    "Takeout 5/Drive/Documento sem t\u00edtulo.docx": {
+      "size_bytes": 25209,
+      "size_mb": 0.02
+    },
+    "Takeout 5/Drive/Proposal - 1.docx": {
+      "size_bytes": 8198,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Invite Letter.docx": {
+      "size_bytes": 7613,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Scrap Web (GPT Scrape 2).json": {
+      "size_bytes": 2840,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Screen Shot 2022-06-07 at 11.57.43 PM.png": {
+      "size_bytes": 804637,
+      "size_mb": 0.77
+    },
+    "Takeout 5/Drive/Untitled document(47).docx": {
+      "size_bytes": 6563,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(3).docx": {
+      "size_bytes": 6566,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Avocado Profits.xlsx": {
+      "size_bytes": 5179,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Untitled document(7).docx": {
+      "size_bytes": 8825,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(43).docx": {
+      "size_bytes": 6835,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Mapscraper - RJ.csv": {
+      "size_bytes": 17299,
+      "size_mb": 0.02
+    },
+    "Takeout 5/Drive/Media Buyer Interview.docx": {
+      "size_bytes": 12404,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(22).docx": {
+      "size_bytes": 6467,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Joao Lucas Vivas - Resume.docx": {
+      "size_bytes": 649217,
+      "size_mb": 0.62
+    },
+    "Takeout 5/Drive/Untitled spreadsheet(4).xlsx": {
+      "size_bytes": 36172,
+      "size_mb": 0.03
+    },
+    "Takeout 5/Drive/Copy of [MODELO] Adapta - 6Ps de Copy(1).docx": {
+      "size_bytes": 15190,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled spreadsheet(6).xlsx": {
+      "size_bytes": 7249,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/FitToBePregnant.pdf": {
+      "size_bytes": 1642903,
+      "size_mb": 1.57
+    },
+    "Takeout 5/Drive/Copy of [MODELO] Adapta - 6Ps de Copy(3).docx": {
+      "size_bytes": 15190,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(20).docx": {
+      "size_bytes": 6542,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Decisores.csv": {
+      "size_bytes": 3032,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Contrato de loca\u00e7\u01ceo.docx": {
+      "size_bytes": 9174,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Lojas-de-e-commerce-em-Ipanema-(09-10-2024).xlsx": {
+      "size_bytes": 92319,
+      "size_mb": 0.09
+    },
+    "Takeout 5/Drive/Screen Shot 2022-06-16 at 3.42.07 PM.png": {
+      "size_bytes": 914050,
+      "size_mb": 0.87
+    },
+    "Takeout 5/Drive/Untitled document(5).docx": {
+      "size_bytes": 6604,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Hoteis - RJ.xlsx": {
+      "size_bytes": 712027,
+      "size_mb": 0.68
+    },
+    "Takeout 5/Drive/Clinicas de Dermato - SP.csv": {
+      "size_bytes": 606697,
+      "size_mb": 0.58
+    },
+    "Takeout 5/Drive/Untitled document(41).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/The Nokbox - Creative Brief - Statics - 01.02.24.docx": {
+      "size_bytes": 2321614,
+      "size_mb": 2.21
+    },
+    "Takeout 5/Drive/Estu\u0301dios-de-design-arquiteto\u0302nico-em-Joa\u0303o-Pes.csv": {
+      "size_bytes": 1107632,
+      "size_mb": 1.06
+    },
+    "Takeout 5/Drive/Untitled document(39).docx": {
+      "size_bytes": 6486,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Joao_Lucas_Exercise.docx": {
+      "size_bytes": 12670,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/data.csv": {
+      "size_bytes": 2913,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Archi Escritorios Principais Estados - Maps Scrape.xlsx": {
+      "size_bytes": 211962,
+      "size_mb": 0.2
+    },
+    "Takeout 5/Drive/Avocado Leash PROFITS.xlsx": {
+      "size_bytes": 5073,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Untitled document(35).docx": {
+      "size_bytes": 6397,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Script de abordagem - SDR.docx": {
+      "size_bytes": 12266,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled spreadsheet.xlsx": {
+      "size_bytes": 4597,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/FitToBePregnant.docx": {
+      "size_bytes": 1433859,
+      "size_mb": 1.37
+    },
+    "Takeout 5/Drive/Health Digital Boost.docx": {
+      "size_bytes": 7788,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Library _ Loom - 2 September 2022 (1).MOV": {
+      "size_bytes": 1296094,
+      "size_mb": 1.24
+    },
+    "Takeout 5/Drive/Untitled document(9).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Manychat Template.xlsx": {
+      "size_bytes": 60932,
+      "size_mb": 0.06
+    },
+    "Takeout 5/Drive/Perfomance Call.xlsx": {
+      "size_bytes": 198953,
+      "size_mb": 0.19
+    },
+    "Takeout 5/Drive/Untitled document(11).docx": {
+      "size_bytes": 6934,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(13).docx": {
+      "size_bytes": 6626,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Dermatologista-(04-21-2024).csv": {
+      "size_bytes": 26220,
+      "size_mb": 0.03
+    },
+    "Takeout 5/Drive/Clinicas de Dermatologia - RJ.xlsx": {
+      "size_bytes": 429790,
+      "size_mb": 0.41
+    },
+    "Takeout 5/Drive/Cover Letter - LinkedIn.docx": {
+      "size_bytes": 7553,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/MANUAL DO CEO - Um Verdadeiro Mba Para o - JOSH KA.docx": {
+      "size_bytes": 89091,
+      "size_mb": 0.08
+    },
+    "Takeout 5/Drive/Me\u0301tricas de prospecc\u0327a\u0303o - Growth Advisor.xlsx": {
+      "size_bytes": 20670,
+      "size_mb": 0.02
+    },
+    "Takeout 5/Drive/Untitled document(37).docx": {
+      "size_bytes": 6998,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Clinicas Odonto - RJ.xlsx": {
+      "size_bytes": 186716,
+      "size_mb": 0.18
+    },
+    "Takeout 5/Drive/tentativa3 -result.csv": {
+      "size_bytes": 873,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/tentativa -result.csv": {
+      "size_bytes": 22134,
+      "size_mb": 0.02
+    },
+    "Takeout 5/Drive/Fatura-Xp-Ago-23-9553076.pdf": {
+      "size_bytes": 1371557,
+      "size_mb": 1.31
+    },
+    "Takeout 5/Drive/Untitled document(33).docx": {
+      "size_bytes": 6596,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Maps Scraper.xlsx": {
+      "size_bytes": 13582,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/E-book Escopo.docx": {
+      "size_bytes": 444556,
+      "size_mb": 0.42
+    },
+    "Takeout 5/Drive/Lista Archi -result.csv": {
+      "size_bytes": 2988,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Untitled document(17).docx": {
+      "size_bytes": 11605,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Academias - Rj.csv": {
+      "size_bytes": 1171329,
+      "size_mb": 1.12
+    },
+    "Takeout 5/Drive/Untitled document(28).docx": {
+      "size_bytes": 6403,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/_Job Offer for Facebook Media Buyer - Gavin Whi.pdf": {
+      "size_bytes": 378537,
+      "size_mb": 0.36
+    },
+    "Takeout 5/Drive/Jom Bensom - COPY_.docx": {
+      "size_bytes": 24678,
+      "size_mb": 0.02
+    },
+    "Takeout 5/Drive/Estu\u0301dios-de-design-arquiteto\u0302nico-em.-(04-19-2024)(1).xlsx": {
+      "size_bytes": 448692,
+      "size_mb": 0.43
+    },
+    "Takeout 5/Drive/Scrap Web.xlsx": {
+      "size_bytes": 142509,
+      "size_mb": 0.14
+    },
+    "Takeout 5/Drive/Copy of [MODELO] Adapta - 6Ps de Copy.docx": {
+      "size_bytes": 15190,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(15).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Joao Lucas Vivas - Resume(1).docx": {
+      "size_bytes": 462628,
+      "size_mb": 0.44
+    },
+    "Takeout 5/Drive/Untitled document(31).docx": {
+      "size_bytes": 6427,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Academias - RJ.xlsx": {
+      "size_bytes": 478646,
+      "size_mb": 0.46
+    },
+    "Takeout 5/Drive/Escritorio Archi - RJ.xlsx": {
+      "size_bytes": 11120,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Copy of Planilha para C\u00e1lculo de Custos na Importa.xlsx": {
+      "size_bytes": 59348,
+      "size_mb": 0.06
+    },
+    "Takeout 5/Drive/Copy of Webtopia - SWOT analysis guide & template.xlsx": {
+      "size_bytes": 671187,
+      "size_mb": 0.64
+    },
+    "Takeout 5/Drive/_Create a Google Sheet for advanced media buying._.xlsx": {
+      "size_bytes": 5098,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/Lucas - YWS _ Media Buyer Assessment - external {M.docx": {
+      "size_bytes": 2214179,
+      "size_mb": 2.11
+    },
+    "Takeout 5/Drive/Script de Ligac\u00e3o(1).docx": {
+      "size_bytes": 12899,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Estu\u0301dios-de-design-arquiteto\u0302nico-em.-(04-19-2024).xlsx": {
+      "size_bytes": 448692,
+      "size_mb": 0.43
+    },
+    "Takeout 5/Drive/fatura_mai2023_001747661_103190.pdf": {
+      "size_bytes": 924826,
+      "size_mb": 0.88
+    },
+    "Takeout 5/Drive/Untitled document(12).docx": {
+      "size_bytes": 7067,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(36).docx": {
+      "size_bytes": 7472,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Contrato de Loca\u00e7\u00e3o.docx": {
+      "size_bytes": 8922,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Resumo.docx": {
+      "size_bytes": 290812,
+      "size_mb": 0.28
+    },
+    "Takeout 5/Drive/Untitled document(8).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/VSL - COPY.docx": {
+      "size_bytes": 1205509,
+      "size_mb": 1.15
+    },
+    "Takeout 5/Drive/joaoooo.png": {
+      "size_bytes": 318484,
+      "size_mb": 0.3
+    },
+    "Takeout 5/Drive/Untitled document(34).docx": {
+      "size_bytes": 6553,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Apollo Lista - 1.xlsx": {
+      "size_bytes": 19588,
+      "size_mb": 0.02
+    },
+    "Takeout 5/Drive/scrapetable_Escritorios de arquitetura _2024041.csv": {
+      "size_bytes": 284990,
+      "size_mb": 0.27
+    },
+    "Takeout 5/Drive/Untitled document(10).docx": {
+      "size_bytes": 6431,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/monthly_notes(1).csv": {
+      "size_bytes": 1624,
+      "size_mb": 0.0
+    },
+    "Takeout 5/Drive/IMG_1113.png": {
+      "size_bytes": 7395542,
+      "size_mb": 7.05
+    },
+    "Takeout 5/Drive/Untitled document(14).docx": {
+      "size_bytes": 291590,
+      "size_mb": 0.28
+    },
+    "Takeout 5/Drive/MAPS SCRAPER - TOOL (Untitled project).json": {
+      "size_bytes": 7283,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Clay Teste.xlsx": {
+      "size_bytes": 35466,
+      "size_mb": 0.03
+    },
+    "Takeout 5/Drive/Product Ideas.docx": {
+      "size_bytes": 8028,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(29).docx": {
+      "size_bytes": 6403,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(48).docx": {
+      "size_bytes": 7339,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Untitled document(30).docx": {
+      "size_bytes": 6397,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Mchel - Ads Manager.docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/IMG_1110.png": {
+      "size_bytes": 5400094,
+      "size_mb": 5.15
+    },
+    "Takeout 5/Drive/Untitled document(32).docx": {
+      "size_bytes": 6602,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/escritorio-de-arquitetura-no-Rio-de-Janeiro-(04.csv": {
+      "size_bytes": 44464,
+      "size_mb": 0.04
+    },
+    "Takeout 5/Drive/Copy of Webtopia - The Ultimate KPI Guide & Templa.docx": {
+      "size_bytes": 316844,
+      "size_mb": 0.3
+    },
+    "Takeout 5/Drive/Joao_Lucas_Exercise.xlsx": {
+      "size_bytes": 11750,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/scrapetable_Lojas de auto pec\u0327as _20240418_1323.csv": {
+      "size_bytes": 82202,
+      "size_mb": 0.08
+    },
+    "Takeout 5/Drive/Arquiteto em Nit (regiao dos lagos e petropolit.csv": {
+      "size_bytes": 729645,
+      "size_mb": 0.7
+    },
+    "Takeout 5/Drive/Invitation Letter.docx": {
+      "size_bytes": 7484,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Cli\u0301nicas-odontolo\u0301gicas-em-Ipanema-(05-25-2024.csv": {
+      "size_bytes": 1365326,
+      "size_mb": 1.3
+    },
+    "Takeout 5/Drive/Doctoralia Scrape Exemplo.xlsx": {
+      "size_bytes": 5700,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Lucas Vivas - Resume (1).pdf": {
+      "size_bytes": 1331899,
+      "size_mb": 1.27
+    },
+    "Takeout 5/Drive/Untitled document(16).docx": {
+      "size_bytes": 6384,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/MAPS SCRAPER - TOOL.xlsx": {
+      "size_bytes": 35506,
+      "size_mb": 0.03
+    },
+    "Takeout 5/Drive/Criativos que convertem/344685020_OSegredodosCriativosqueConvertem-Desp.pdf": {
+      "size_bytes": 13485256,
+      "size_mb": 12.86
+    },
+    "Takeout 5/Drive/Case Studies/Screen Shot 2022-06-16 at 3.42.07 PM.png": {
+      "size_bytes": 914050,
+      "size_mb": 0.87
+    },
+    "Takeout 5/Drive/Unorganized/_Stories CF_.docx": {
+      "size_bytes": 7256,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Unorganized/Conteudo.docx": {
+      "size_bytes": 7915,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Unorganized/_Stories Geral_.docx": {
+      "size_bytes": 7035,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Unorganized/_Feed 1_.docx": {
+      "size_bytes": 7702,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Unorganized/Ecommerce Prospec\u00e7\u00e3o.xlsx": {
+      "size_bytes": 278150,
+      "size_mb": 0.27
+    },
+    "Takeout 5/Drive/Unorganized/_Feed 2_.docx": {
+      "size_bytes": 7507,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/Ecom Season/FREE PET SEATBELT (1).png": {
+      "size_bytes": 522361,
+      "size_mb": 0.5
+    },
+    "Takeout 5/Drive/Ecom Season/avocadoad.MOV": {
+      "size_bytes": 11940217,
+      "size_mb": 11.39
+    },
+    "Takeout 5/Drive/Brex - Max/Screen Recording 2021-03-26 at 2.32.57 PM.mov": {
+      "size_bytes": 4357720,
+      "size_mb": 4.16
+    },
+    "Takeout 5/Drive/KODA - Documentos/KODA - Prospecc\u0327a\u0303o /PLANILHA DE PROSPEC.xlsx": {
+      "size_bytes": 102571,
+      "size_mb": 0.1
+    },
+    "Takeout 5/Drive/KODA - Documentos/KODA - Prospecc\u0327a\u0303o /Script obje\u00e7\u00e3o na abordagem.docx": {
+      "size_bytes": 7232,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/KODA - Documentos/KODA - Prospecc\u0327a\u0303o /Script Call de vendas_.docx": {
+      "size_bytes": 10169,
+      "size_mb": 0.01
+    },
+    "Takeout 5/Drive/KODA - Documentos/KODA - Financeiros/PLANILHA FINANCEIRO.xlsx": {
+      "size_bytes": 91169,
+      "size_mb": 0.09
+    },
+    "Takeout 5/Drive/KODA - Documentos/KODA - Contratos/CONTRATO PRESTAC\u0327A\u0303O DE SERVIC\u0327OS - MODELO.docx": {
+      "size_bytes": 13707,
+      "size_mb": 0.01
+    },
+    "Takeout 2/YouTube and YouTube Music/.DS_Store": {
+      "size_bytes": 6148,
+      "size_mb": 0.01
+    },
+    "Takeout 2/YouTube and YouTube Music/live chats/live chats.csv": {
+      "size_bytes": 21328,
+      "size_mb": 0.02
+    },
+    "Takeout 2/YouTube and YouTube Music/comments/comments.csv": {
+      "size_bytes": 11004,
+      "size_mb": 0.01
+    },
+    "Takeout 2/YouTube and YouTube Music/video metadata/video recordings.csv": {
+      "size_bytes": 144,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/video metadata/videos.csv": {
+      "size_bytes": 1089,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/video metadata/video texts.csv": {
+      "size_bytes": 996,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/playlists/Watch later-videos.csv": {
+      "size_bytes": 3354,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/playlists/Musica de fundo para video-videos.csv": {
+      "size_bytes": 542,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/playlists/playlists.csv": {
+      "size_bytes": 455,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/subscriptions/subscriptions.csv": {
+      "size_bytes": 84536,
+      "size_mb": 0.08
+    },
+    "Takeout 2/YouTube and YouTube Music/videos/Video introduction.mp4": {
+      "size_bytes": 91232781,
+      "size_mb": 87.01
+    },
+    "Takeout 2/YouTube and YouTube Music/videos/Video Introduction(1).mp4": {
+      "size_bytes": 100281864,
+      "size_mb": 95.64
+    },
+    "Takeout 2/YouTube and YouTube Music/videos/Video Introduction(2).mp4": {
+      "size_bytes": 91902162,
+      "size_mb": 87.64
+    },
+    "Takeout 2/YouTube and YouTube Music/history/watch-history.html": {
+      "size_bytes": 57239938,
+      "size_mb": 54.59
+    },
+    "Takeout 2/YouTube and YouTube Music/history/search-history.html": {
+      "size_bytes": 49644928,
+      "size_mb": 47.35
+    },
+    "Takeout 2/YouTube and YouTube Music/music (library and uploads)/music library songs.csv": {
+      "size_bytes": 7612,
+      "size_mb": 0.01
+    },
+    "Takeout 2/YouTube and YouTube Music/channels/channel page settings.csv": {
+      "size_bytes": 41,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/channels/channel.csv": {
+      "size_bytes": 104,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/channels/channel feature data.csv": {
+      "size_bytes": 267,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/channels/channel URL configs.csv": {
+      "size_bytes": 78,
+      "size_mb": 0.0
+    },
+    "Takeout 2/YouTube and YouTube Music/channels/channel community moderation settings.csv": {
+      "size_bytes": 41,
+      "size_mb": 0.0
+    },
+    "Takeout 3/Mail/User Settings/Blocked Addresses.json": {
+      "size_bytes": 142,
+      "size_mb": 0.0
+    },
+    "Takeout 3/Mail/User Settings/Filters.json": {
+      "size_bytes": 2327,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Saved/Favorite pages.csv": {
+      "size_bytes": 489,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Saved/Favorite images.csv": {
+      "size_bytes": 350,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Play Movies & TV/Notification Preferences.json": {
+      "size_bytes": 2,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Play Movies & TV/Streaming Services.json": {
+      "size_bytes": 2,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Play Movies & TV/Watchlist.json": {
+      "size_bytes": 2,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Play Movies & TV/Ratings.json": {
+      "size_bytes": 2,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Play Movies & TV/Linked Services.json": {
+      "size_bytes": 2,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Discover/Your Follows.csv": {
+      "size_bytes": 16,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Discover/Not Interested Setting.csv": {
+      "size_bytes": 26,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Discover/Your Liked Content.csv": {
+      "size_bytes": 23,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Calendar/jlucasvivass@gmail.com.ics": {
+      "size_bytes": 303481,
+      "size_mb": 0.29
+    },
+    "Takeout 1/Calendar/Family.ics": {
+      "size_bytes": 170,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Access Log Activity/Activities - A list of Google services accessed by.csv": {
+      "size_bytes": 15482393,
+      "size_mb": 14.77
+    },
+    "Takeout 1/Access Log Activity/Devices - A list of devices (i.e. Nest, Pixel, iPh.csv": {
+      "size_bytes": 557,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Account/jlucasvivass.SubscriberInfo.html": {
+      "size_bytes": 244113,
+      "size_mb": 0.23
+    },
+    "Takeout 1/Google Account/jlucasvivass.ChangeHistory.html": {
+      "size_bytes": 3222,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Gemini/gemini_scheduled_actions_data.html": {
+      "size_bytes": 11,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Gemini/gemini_gems_data.html": {
+      "size_bytes": 11,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Workspace Marketplace/README": {
+      "size_bytes": 375,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Business Profile/businessPersonalization.json": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Home App/Automations.json": {
+      "size_bytes": 46,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Home App/HomeApp.json": {
+      "size_bytes": 43,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Home App/HomeHistory.json": {
+      "size_bytes": 2,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Home App/ApplicationPermissions.json": {
+      "size_bytes": 74,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Home App/GoogleNestConnect.json": {
+      "size_bytes": 54,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Home App/SoundSensing.json": {
+      "size_bytes": 46,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Home App/GoogleNestPartnerConnections.json": {
+      "size_bytes": 66,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Home App/SecurityAlarmClips.json": {
+      "size_bytes": 55,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Alerts/ALERTS-SUBSCRIPTIONS.JSON": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Profile/ProfilePhoto.jpg": {
+      "size_bytes": 224099,
+      "size_mb": 0.21
+    },
+    "Takeout 1/Profile/Profile.json": {
+      "size_bytes": 264,
+      "size_mb": 0.0
+    },
+    "Takeout 1/News/magazines.txt": {
+      "size_bytes": 0,
+      "size_mb": 0.0
+    },
+    "Takeout 1/News/followed_sources.txt": {
+      "size_bytes": 0,
+      "size_mb": 0.0
+    },
+    "Takeout 1/News/followed_topics.txt": {
+      "size_bytes": 0,
+      "size_mb": 0.0
+    },
+    "Takeout 1/News/followed_locations.txt": {
+      "size_bytes": 0,
+      "size_mb": 0.0
+    },
+    "Takeout 1/News/articles.txt": {
+      "size_bytes": 0,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Chrome/OS Settings.json": {
+      "size_bytes": 241,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Chrome/Settings.json": {
+      "size_bytes": 40314,
+      "size_mb": 0.04
+    },
+    "Takeout 1/Chrome/History.json": {
+      "size_bytes": 24860008,
+      "size_mb": 23.71
+    },
+    "Takeout 1/Chrome/Bookmarks.html": {
+      "size_bytes": 3598,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Chrome/Addresses and more.json": {
+      "size_bytes": 263745,
+      "size_mb": 0.25
+    },
+    "Takeout 1/Chrome/Extensions.json": {
+      "size_bytes": 15136,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Chrome/Device Information.json": {
+      "size_bytes": 8901,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Chrome/Dictionary.csv": {
+      "size_bytes": 0,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Chrome/Reading List.html": {
+      "size_bytes": 267,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Store/Returns and Repairs.json": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Store/Purchases.json": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Android Device Configuration Service/Device-5064791647926059312.html": {
+      "size_bytes": 3768,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Timeline/Settings.json": {
+      "size_bytes": 1262,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps (your places)/Reviews.json": {
+      "size_bytes": 1513,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Search Notifications/USER-SUBSCRIPTIONS.CSV": {
+      "size_bytes": 44,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Search Notifications/USER-SETTINGS.CSV": {
+      "size_bytes": 712,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/Commute routes/Commute routes.json": {
+      "size_bytes": 438,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/Requests for services/Requests for services.json": {
+      "size_bytes": 1,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/Electric vehicle settings/Electric vehicle settings.json": {
+      "size_bytes": 37,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/Added dishes, products, activities/Added dishes, products, activities.json": {
+      "size_bytes": 25,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/Vehicle profiles/Vehicle profiles.json": {
+      "size_bytes": 28,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/Your local followed places/Your local followed places.csv": {
+      "size_bytes": 18,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/My labeled places/Labeled places.json": {
+      "size_bytes": 302,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/Your personalization feedback/Your personalization feedback.csv": {
+      "size_bytes": 19,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Maps/Questions and Answers/Questions and Answers.json": {
+      "size_bytes": 75,
+      "size_mb": 0.0
+    },
+    "Takeout 1/My Activity/Maps/MyActivity.html": {
+      "size_bytes": 2892847,
+      "size_mb": 2.76
+    },
+    "Takeout 1/My Activity/Ads/MyActivity.html": {
+      "size_bytes": 3256326,
+      "size_mb": 3.11
+    },
+    "Takeout 1/My Activity/Google Lens/MyActivity.html": {
+      "size_bytes": 347886,
+      "size_mb": 0.33
+    },
+    "Takeout 1/My Activity/Discover/MyActivity.html": {
+      "size_bytes": 853001,
+      "size_mb": 0.81
+    },
+    "Takeout 1/My Activity/Shopping/MyActivity.html": {
+      "size_bytes": 356426,
+      "size_mb": 0.34
+    },
+    "Takeout 1/My Activity/Flights/MyActivity.html": {
+      "size_bytes": 284429,
+      "size_mb": 0.27
+    },
+    "Takeout 1/My Activity/Gemini Apps/MyActivity.html": {
+      "size_bytes": 219235,
+      "size_mb": 0.21
+    },
+    "Takeout 1/My Activity/Video Search/MyActivity.html": {
+      "size_bytes": 244517,
+      "size_mb": 0.23
+    },
+    "Takeout 1/My Activity/Hotels/MyActivity.html": {
+      "size_bytes": 366863,
+      "size_mb": 0.35
+    },
+    "Takeout 1/My Activity/Google Analytics/MyActivity.html": {
+      "size_bytes": 1069005,
+      "size_mb": 1.02
+    },
+    "Takeout 1/My Activity/Google Play Store/MyActivity.html": {
+      "size_bytes": 154398,
+      "size_mb": 0.15
+    },
+    "Takeout 1/My Activity/Books/MyActivity.html": {
+      "size_bytes": 149190,
+      "size_mb": 0.14
+    },
+    "Takeout 1/My Activity/YouTube/MyActivity.html": {
+      "size_bytes": 127917359,
+      "size_mb": 121.99
+    },
+    "Takeout 1/My Activity/Search/MyActivity.html": {
+      "size_bytes": 40671559,
+      "size_mb": 38.79
+    },
+    "Takeout 1/My Activity/Chrome/MyActivity.html": {
+      "size_bytes": 21475453,
+      "size_mb": 20.48
+    },
+    "Takeout 1/My Activity/Google Translate/MyActivity.html": {
+      "size_bytes": 1445058,
+      "size_mb": 1.38
+    },
+    "Takeout 1/My Activity/Image Search/MyActivity.html": {
+      "size_bytes": 3960700,
+      "size_mb": 3.78
+    },
+    "Takeout 1/My Activity/Drive/MyActivity.html": {
+      "size_bytes": 153049,
+      "size_mb": 0.15
+    },
+    "Takeout 1/My Activity/Travel/MyActivity.html": {
+      "size_bytes": 144379,
+      "size_mb": 0.14
+    },
+    "Takeout 1/My Activity/Gmail/MyActivity.html": {
+      "size_bytes": 1235783,
+      "size_mb": 1.18
+    },
+    "Takeout 1/My Activity/Takeout/MyActivity.html": {
+      "size_bytes": 148933,
+      "size_mb": 0.14
+    },
+    "Takeout 1/My Activity/Help/MyActivity.html": {
+      "size_bytes": 356414,
+      "size_mb": 0.34
+    },
+    "Takeout 1/My Activity/Developers/MyActivity.html": {
+      "size_bytes": 151274,
+      "size_mb": 0.14
+    },
+    "Takeout 1/Assignments/Collaborations/Collaborations.json": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Assignments/MeetLti/Meetings.json": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Business Profile/account-105171023289299284963/data.json": {
+      "size_bytes": 100,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Finance/Watchlists/Watchlist.json": {
+      "size_bytes": 43,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Contacts/My Contacts/My Contacts.vcf": {
+      "size_bytes": 65743,
+      "size_mb": 0.06
+    },
+    "Takeout 1/Contacts/My Contacts/Edcarlos.jpg": {
+      "size_bytes": 94116,
+      "size_mb": 0.09
+    },
+    "Takeout 1/Contacts/My Contacts/Kortex.jpg": {
+      "size_bytes": 3494,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Contacts/All Contacts/Edcarlos.jpg": {
+      "size_bytes": 94116,
+      "size_mb": 0.09
+    },
+    "Takeout 1/Contacts/All Contacts/All Contacts.vcf": {
+      "size_bytes": 108123,
+      "size_mb": 0.1
+    },
+    "Takeout 1/Contacts/All Contacts/Kortex.jpg": {
+      "size_bytes": 3494,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Shopping/Merchant Reviews/Merchant Reviews.csv": {
+      "size_bytes": 34,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Shopping/Product Reviews/Product Reviews.csv": {
+      "size_bytes": 40,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Startups/Startups metadata.json": {
+      "size_bytes": 185,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/MCP Servers metadata.json": {
+      "size_bytes": 188,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Mastering NotebookLM metadata.json": {
+      "size_bytes": 197,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Obsidian metadata.json": {
+      "size_bytes": 185,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/AI Agents metadata.json": {
+      "size_bytes": 186,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Startups/Sources/Como montar sua Startup do zero com IA (M\u00e9todo.json": {
+      "size_bytes": 432,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Startups/Sources/Como montar sua Startup do zero com IA (M\u00e9todo.html": {
+      "size_bytes": 54428,
+      "size_mb": 0.05
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Highlight MCP Servers metadata.json": {
+      "size_bytes": 255,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Example Servers - Model Context Protocol metad.json": {
+      "size_bytes": 274,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/What is an MCP Server_ - K2view metadata.json": {
+      "size_bytes": 265,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Documentation of MCP for beta 1.7.3 _ r_feedth.json": {
+      "size_bytes": 295,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/N\u00c3O ESPERE! Aprenda a Criar Seu Pr\u00f3prio Servid.json": {
+      "size_bytes": 402,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP (Mod Coder Pack) \u2014 Sponge 8.0.0 documentat.html": {
+      "size_bytes": 4942,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Example Servers - Model Context Protocol.html": {
+      "size_bytes": 5604,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP Documentation - Model Context Protocol Doc.json": {
+      "size_bytes": 281,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/The Browser MCP is all you need _ Paul Klein I.html": {
+      "size_bytes": 5557,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP Servers for Cursor - Cursor Directory.html": {
+      "size_bytes": 2721,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/modelcontextprotocol_servers_ Model Context Pr.json": {
+      "size_bytes": 303,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Awesome MCP Servers metadata.json": {
+      "size_bytes": 253,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP Servers - Model Context Protocol _ The #1 .json": {
+      "size_bytes": 295,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Architecting Agent Memory_ Principles, Pattern.html": {
+      "size_bytes": 15788,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP Servers for Cursor - Cursor Directory meta.json": {
+      "size_bytes": 275,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP Is Not Good Yet \u2014 David Cramer, Sentry.html": {
+      "size_bytes": 20473,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Awesome MCP Servers.html": {
+      "size_bytes": 98419,
+      "size_mb": 0.09
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/What is an MCP Server_ - K2view.html": {
+      "size_bytes": 14908,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Architecting Agent Memory_ Principles, Pattern.json": {
+      "size_bytes": 438,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP Servers - Model Context Protocol _ The #1 .html": {
+      "size_bytes": 17890,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Highlight AI _ Master your world metadata.json": {
+      "size_bytes": 266,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/modelcontextprotocol_servers_ Model Context Pr.html": {
+      "size_bytes": 124460,
+      "size_mb": 0.12
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/The Browser MCP is all you need _ Paul Klein I.json": {
+      "size_bytes": 418,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP (Mod Coder Pack) \u2014 Sponge 8.0.0 documentat.json": {
+      "size_bytes": 285,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP Documentation - Model Context Protocol Doc.html": {
+      "size_bytes": 529,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Highlight MCP Servers.html": {
+      "size_bytes": 28672,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/N\u00c3O ESPERE! Aprenda a Criar Seu Pr\u00f3prio Servid.html": {
+      "size_bytes": 16515,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Documentation of MCP for beta 1.7.3 _ r_feedth.html": {
+      "size_bytes": 22032,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/MCP Is Not Good Yet \u2014 David Cramer, Sentry met.json": {
+      "size_bytes": 387,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/MCP Servers/Sources/Highlight AI _ Master your world.html": {
+      "size_bytes": 12540,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Notes/NotebookLM_ Purpose, Features, and Application.html": {
+      "size_bytes": 9094,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Learn 80_ of NotebookLM in Under 13 Minutes! m.json": {
+      "size_bytes": 383,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Prob\u00e9 Claude 3.7 con NotebookLM y Gemini 2.5\u2026 (1).json": {
+      "size_bytes": 448,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/3 Game-Changing NotebookLM Features You Need N.json": {
+      "size_bytes": 394,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/MATG The Marketers Guide to Google Gemini and .html": {
+      "size_bytes": 35942,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How to Use NotebookLM (Google_s AI _Tool for U.json": {
+      "size_bytes": 410,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How To Use NotebookLM As A Research Tool _ by .html": {
+      "size_bytes": 11837,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/NEW NotebookLM Mobile App \ud83d\udcda First Look + Prac.json": {
+      "size_bytes": 414,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How I_m using NotebookLM to power up my langua.json": {
+      "size_bytes": 421,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/5 Expert Tips for Excelling with NotebookLM - .json": {
+      "size_bytes": 289,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Build Epic Marketing Systems_ NotebookLM + Veo.html": {
+      "size_bytes": 16921,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/The Ultimate Student Guide To Finding Credible.json": {
+      "size_bytes": 299,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Learn 80_ of NotebookLM in Under 13 Minutes!.html": {
+      "size_bytes": 12974,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How To Use NotebookLM for Work Projects (Compl.json": {
+      "size_bytes": 399,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/You\u2019re Using Google All Wrong\u2014NotebookLM Chang.json": {
+      "size_bytes": 422,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Synthesizing Sources_ Building Coherent Argume.html": {
+      "size_bytes": 14002,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Build Epic Startups_ NotebookLM + Gemini 2.5 W.json": {
+      "size_bytes": 398,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Undertaking a literature review_ a step_by-ste.json": {
+      "size_bytes": 313,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Using NotebookLM for Thesis Writing_ Dealing w.json": {
+      "size_bytes": 313,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How to Organize Research Notes - Shy Editor me.json": {
+      "size_bytes": 277,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Como usar o NOTEBOOKLM _ A IA que EU MAIS UTIL.json": {
+      "size_bytes": 401,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/NotebookLM Will Change How You Learn \u2013 Here\u2019s .html": {
+      "size_bytes": 32742,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Prob\u00e9 Claude 3.7 con NotebookLM y Gemini 2.5\u2026 .html": {
+      "size_bytes": 31643,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/I Replaced My $700_Hour Coach with NotebookLM .json": {
+      "size_bytes": 415,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Key NotebookLM Feature_ Discover Sources \ud83d\udcda AI.json": {
+      "size_bytes": 410,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Notebook LM Is Finally Useful \ud83e\udd2f \u2013 Here\u2019s How .html": {
+      "size_bytes": 15225,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Notebook LM Is Finally Useful \ud83e\udd2f \u2013 Here\u2019s How .json": {
+      "size_bytes": 419,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Key NotebookLM Feature_ Discover Sources \ud83d\udcda AI.html": {
+      "size_bytes": 26980,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Prob\u00e9 Claude 3.7 con NotebookLM y Gemini 2.5\u2026 .json": {
+      "size_bytes": 448,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Research Workflow Optimization - Meegle.html": {
+      "size_bytes": 20104,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/I Replaced My $700_Hour Coach with NotebookLM .html": {
+      "size_bytes": 22749,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Como usar o NOTEBOOKLM _ A IA que EU MAIS UTIL.html": {
+      "size_bytes": 9354,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Research Workflow Optimization - Meegle metada.json": {
+      "size_bytes": 273,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/NotebookLM Will Change How You Learn \u2013 Here\u2019s .json": {
+      "size_bytes": 397,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Synthesizing Sources_ Building Coherent Argume.json": {
+      "size_bytes": 311,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Build Epic Startups_ NotebookLM + Gemini 2.5 W.html": {
+      "size_bytes": 20088,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Undertaking a literature review_ a step_by-ste.html": {
+      "size_bytes": 2288279,
+      "size_mb": 2.18
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Using NotebookLM for Thesis Writing_ Dealing w.html": {
+      "size_bytes": 28616,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Critical appraisal of a journal article.html": {
+      "size_bytes": 386553,
+      "size_mb": 0.37
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How To Use NotebookLM for Work Projects (Compl.html": {
+      "size_bytes": 15617,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/You\u2019re Using Google All Wrong\u2014NotebookLM Chang.html": {
+      "size_bytes": 19538,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/The Ultimate Student Guide To Finding Credible.html": {
+      "size_bytes": 13796,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Build Epic Marketing Systems_ NotebookLM + Veo.json": {
+      "size_bytes": 402,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How I_m using NotebookLM to power up my langua.html": {
+      "size_bytes": 7981,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/5 Expert Tips for Excelling with NotebookLM - .html": {
+      "size_bytes": 7233,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How To Use NotebookLM As A Research Tool _ by .json": {
+      "size_bytes": 316,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/NEW NotebookLM Mobile App \ud83d\udcda First Look + Prac.html": {
+      "size_bytes": 26987,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How to Use NotebookLM (Google_s AI _Tool for U.html": {
+      "size_bytes": 26226,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/MATG The Marketers Guide to Google Gemini and .json": {
+      "size_bytes": 294,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/How to Organize Research Notes - Shy Editor.html": {
+      "size_bytes": 23447,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Prob\u00e9 Claude 3.7 con NotebookLM y Gemini 2.5\u2026 (1).html": {
+      "size_bytes": 31643,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/3 Game-Changing NotebookLM Features You Need N.html": {
+      "size_bytes": 7665,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Mastering NotebookLM/Sources/Critical appraisal of a journal article metada.json": {
+      "size_bytes": 273,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Audio Overview/Obsidian.wav": {
+      "size_bytes": 47525804,
+      "size_mb": 45.32
+    },
+    "Takeout 1/NotebookLM/Obsidian/Audio Overview/Obsidian metadata.json": {
+      "size_bytes": 182,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Notes/Obsidian_ Principles and Practice of Personal .html": {
+      "size_bytes": 25966,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Master Learning By Teaching \ud83d\udcda The Feynman Tec.json": {
+      "size_bytes": 417,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How To Add AI To Obsidian \ud83d\udcdd (Free Private Loc.html": {
+      "size_bytes": 47726,
+      "size_mb": 0.05
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How To Template Zettelkasten In Obsidian \ud83d\udcdd + .json": {
+      "size_bytes": 412,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Obsidian + MCP + SuperWhisper_ Write FASTER wi.json": {
+      "size_bytes": 394,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/NEW Obsidian Bases Core Plugin \ud83d\udcdd Full Overvie.html": {
+      "size_bytes": 32864,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How I Organize My Obsidian Vault \ud83d\udce5 Tags, Topi.html": {
+      "size_bytes": 48029,
+      "size_mb": 0.05
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/NEW NotebookLM Mobile App \ud83d\udcda First Look + Prac.json": {
+      "size_bytes": 414,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How I Use Daily Notes In Obsidian \ud83d\udcdd My Daily .json": {
+      "size_bytes": 415,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How To Keep Data Private in NotebookLM \ud83d\udcdd \ud83e\udd2b P.html": {
+      "size_bytes": 16094,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/What Is A Digital Garden_ \ud83c\udf31 Benefits & Philos.html": {
+      "size_bytes": 14305,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How I Use NotebookLM With Obsidian \ud83d\udcdd Practica.json": {
+      "size_bytes": 414,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Feynman_s Favorite Problems \ud83d\udca1Practical Obsidi.html": {
+      "size_bytes": 55715,
+      "size_mb": 0.05
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/What is Zettelkasten Note-Taking_ \ud83d\udcdd Why It Wo.html": {
+      "size_bytes": 63210,
+      "size_mb": 0.06
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Finding Flow States On Demand \ud83d\udca1Practical Obsi.html": {
+      "size_bytes": 71263,
+      "size_mb": 0.07
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Welcome To Wanderloots \ud83d\udcdd What To Expect + Map.html": {
+      "size_bytes": 6393,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Obsidian MCP Setup Tutorial for Claude Desktop.json": {
+      "size_bytes": 388,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Obsidian MCP Setup Tutorial for Claude Desktop.html": {
+      "size_bytes": 12396,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Welcome To Wanderloots \ud83d\udcdd What To Expect + Map.json": {
+      "size_bytes": 410,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Obsidian Bases Just Changed Everything metadat.json": {
+      "size_bytes": 406,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/What is Zettelkasten Note-Taking_ \ud83d\udcdd Why It Wo.json": {
+      "size_bytes": 423,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Finding Flow States On Demand \ud83d\udca1Practical Obsi.json": {
+      "size_bytes": 417,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How To Keep Data Private in NotebookLM \ud83d\udcdd \ud83e\udd2b P.json": {
+      "size_bytes": 418,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/What Is A Digital Garden_ \ud83c\udf31 Benefits & Philos.json": {
+      "size_bytes": 415,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How I Use NotebookLM With Obsidian \ud83d\udcdd Practica.html": {
+      "size_bytes": 46226,
+      "size_mb": 0.04
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Feynman_s Favorite Problems \ud83d\udca1Practical Obsidi.json": {
+      "size_bytes": 420,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How I Use Daily Notes In Obsidian \ud83d\udcdd My Daily .html": {
+      "size_bytes": 51062,
+      "size_mb": 0.05
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Obsidian Bases Just Changed Everything.html": {
+      "size_bytes": 30144,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/NEW NotebookLM Mobile App \ud83d\udcda First Look + Prac.html": {
+      "size_bytes": 26987,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How I Organize My Obsidian Vault \ud83d\udce5 Tags, Topi.json": {
+      "size_bytes": 416,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Obsidian + MCP + SuperWhisper_ Write FASTER wi.html": {
+      "size_bytes": 5359,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/NEW Obsidian Bases Core Plugin \ud83d\udcdd Full Overvie.json": {
+      "size_bytes": 414,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How To Template Zettelkasten In Obsidian \ud83d\udcdd + .html": {
+      "size_bytes": 48850,
+      "size_mb": 0.05
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/How To Add AI To Obsidian \ud83d\udcdd (Free Private Loc.json": {
+      "size_bytes": 417,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/Obsidian/Sources/Master Learning By Teaching \ud83d\udcda The Feynman Tec.html": {
+      "size_bytes": 45885,
+      "size_mb": 0.04
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/A Deep Dive Into MCP and the Future of AI Tool.json": {
+      "size_bytes": 305,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/How I Make Cursor 10x More Effective using Aug.html": {
+      "size_bytes": 15406,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Building AI Agents that actually automate Know.html": {
+      "size_bytes": 17976,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Multi-Agent Systems and Ethical Considerations.json": {
+      "size_bytes": 320,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Emergent Behavior - AI Ethics Lab.html": {
+      "size_bytes": 5468,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/MCP vs API_ Simplifying AI Agent Integration w.json": {
+      "size_bytes": 409,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Augment Code Demo metadata.json": {
+      "size_bytes": 361,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Build Agents using Model Context Protocol on A.html": {
+      "size_bytes": 6245,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/I Built a Personal AI Agent That Does Almost E.html": {
+      "size_bytes": 24297,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/#14_ What Is MCP, and Why Is Everyone \u2013 Sudden.json": {
+      "size_bytes": 321,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/AI Engineering in 76 Minutes (Complete Course_.json": {
+      "size_bytes": 428,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Fully Autonomous AI Agents Should Not be Devel.html": {
+      "size_bytes": 76392,
+      "size_mb": 0.07
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/12-Factor Agents_ Patterns of reliable LLM app.html": {
+      "size_bytes": 20382,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/AI learning hub - Start your AI learning journ.html": {
+      "size_bytes": 10998,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Architecting Agent Memory_ Principles, Pattern.html": {
+      "size_bytes": 15788,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Top 9 AI Agent Frameworks as of June 2025 - Sh.html": {
+      "size_bytes": 52993,
+      "size_mb": 0.05
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Supabase Edge Functions Explained metadata.json": {
+      "size_bytes": 373,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Top 9 AI Agent Frameworks as of June 2025 - Sh.json": {
+      "size_bytes": 285,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/AI learning hub - Start your AI learning journ.json": {
+      "size_bytes": 350,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Architecting Agent Memory_ Principles, Pattern.json": {
+      "size_bytes": 438,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Fully Autonomous AI Agents Should Not be Devel.json": {
+      "size_bytes": 292,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/12-Factor Agents_ Patterns of reliable LLM app.json": {
+      "size_bytes": 427,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/AI Engineering in 76 Minutes (Complete Course_.html": {
+      "size_bytes": 92511,
+      "size_mb": 0.09
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Build Agents using Model Context Protocol on A.json": {
+      "size_bytes": 302,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/I Built a Personal AI Agent That Does Almost E.json": {
+      "size_bytes": 435,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/#14_ What Is MCP, and Why Is Everyone \u2013 Sudden.html": {
+      "size_bytes": 28197,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/MCP vs API_ Simplifying AI Agent Integration w.html": {
+      "size_bytes": 10106,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Emergent Behavior - AI Ethics Lab metadata.json": {
+      "size_bytes": 267,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Augment Code Demo.html": {
+      "size_bytes": 8710,
+      "size_mb": 0.01
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Multi-Agent Systems and Ethical Considerations.html": {
+      "size_bytes": 20653,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/What Are AI Agents_ _ IBM metadata.json": {
+      "size_bytes": 259,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/How I Make Cursor 10x More Effective using Aug.json": {
+      "size_bytes": 411,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Building AI Agents that actually automate Know.json": {
+      "size_bytes": 423,
+      "size_mb": 0.0
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/A Deep Dive Into MCP and the Future of AI Tool.html": {
+      "size_bytes": 23044,
+      "size_mb": 0.02
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/What Are AI Agents_ _ IBM.html": {
+      "size_bytes": 30751,
+      "size_mb": 0.03
+    },
+    "Takeout 1/NotebookLM/AI Agents/Sources/Supabase Edge Functions Explained.html": {
+      "size_bytes": 6323,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Pay/Saved items including loyalty & gift cards/Loyalty Gift Cards and Offers.pdf": {
+      "size_bytes": 223744,
+      "size_mb": 0.21
+    },
+    "Takeout 1/Google Pay/Money sends and requests/Money sends and requests.csv": {
+      "size_bytes": 67,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Pay/Google transactions/transactions_484472004265.csv": {
+      "size_bytes": 488,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-03-23.jpg": {
+      "size_bytes": 8389,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-08-03.jpg": {
+      "size_bytes": 6804,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-06-06.jpg": {
+      "size_bytes": 5908,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(10).jpg": {
+      "size_bytes": 9119,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(5).jpg": {
+      "size_bytes": 8838,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-04-29.jpg": {
+      "size_bytes": 4797,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-08-14.jpg": {
+      "size_bytes": 7222,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-06-11.jpg": {
+      "size_bytes": 11141,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(9).jpg": {
+      "size_bytes": 10508,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(8).jpg": {
+      "size_bytes": 5788,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-04-10.jpg": {
+      "size_bytes": 6134,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-06-29.jpg": {
+      "size_bytes": 9471,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-08-05.jpg": {
+      "size_bytes": 8596,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-03-18.jpg": {
+      "size_bytes": 5536,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2021-02-13.jpg": {
+      "size_bytes": 9795,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2021-02-07.jpg": {
+      "size_bytes": 9723,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(4).jpg": {
+      "size_bytes": 8403,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam.jpg": {
+      "size_bytes": 7595,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-06-16.jpg": {
+      "size_bytes": 11684,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-04-12.jpg": {
+      "size_bytes": 11728,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-10-14.png": {
+      "size_bytes": 44438,
+      "size_mb": 0.04
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-05-09.jpg": {
+      "size_bytes": 9971,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-05-21.jpg": {
+      "size_bytes": 11004,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-02-29.jpg": {
+      "size_bytes": 11107,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2021-06-06.jpg": {
+      "size_bytes": 8004,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/messages.json": {
+      "size_bytes": 113506,
+      "size_mb": 0.11
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2021-06-05.jpg": {
+      "size_bytes": 8066,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(3).jpg": {
+      "size_bytes": 8543,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(2).jpg": {
+      "size_bytes": 6803,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-05-26.jpg": {
+      "size_bytes": 5097,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2021-04-07.jpg": {
+      "size_bytes": 11107,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-05-31.jpg": {
+      "size_bytes": 11464,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-10-09.jpg": {
+      "size_bytes": 8999,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-12-18.jpg": {
+      "size_bytes": 8229,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-10-20.jpg": {
+      "size_bytes": 7049,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(1).jpg": {
+      "size_bytes": 6905,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-09-16.jpg": {
+      "size_bytes": 10018,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-09-02.jpg": {
+      "size_bytes": 5550,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/group_info.json": {
+      "size_bytes": 957,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-02-18.jpg": {
+      "size_bytes": 9890,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-09-10.jpg": {
+      "size_bytes": 9024,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-07-15.jpg": {
+      "size_bytes": 7287,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(7).jpg": {
+      "size_bytes": 7873,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-03-29.jpg": {
+      "size_bytes": 9848,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-08-19.jpg": {
+      "size_bytes": 10750,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-2020-03-06.jpg": {
+      "size_bytes": 6693,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAAQc22NaU/File-cam(6).jpg": {
+      "size_bytes": 8086,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-cam(5).jpg": {
+      "size_bytes": 7272,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-08-01.jpg": {
+      "size_bytes": 8269,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-06-11.jpg": {
+      "size_bytes": 8455,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-04-28.jpg": {
+      "size_bytes": 6790,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-03-31.jpg": {
+      "size_bytes": 9205,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-04-10.jpg": {
+      "size_bytes": 9089,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-03-18.jpg": {
+      "size_bytes": 6110,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-03-24.jpg": {
+      "size_bytes": 7593,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-cam(4).jpg": {
+      "size_bytes": 9571,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-cam.png": {
+      "size_bytes": 63144,
+      "size_mb": 0.06
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-cam.jpg": {
+      "size_bytes": 7645,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-08-07.jpg": {
+      "size_bytes": 5402,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-08-12.jpg": {
+      "size_bytes": 9614,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-04-06.jpg": {
+      "size_bytes": 7814,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-05-25.jpg": {
+      "size_bytes": 7503,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-henessy.jpg": {
+      "size_bytes": 134756,
+      "size_mb": 0.13
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-10-14.jpg": {
+      "size_bytes": 10256,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-09-09.jpg": {
+      "size_bytes": 8476,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-01-27.jpg": {
+      "size_bytes": 7655,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-07-19.jpg": {
+      "size_bytes": 9835,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-09-20.png": {
+      "size_bytes": 56067,
+      "size_mb": 0.05
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-10-03.jpg": {
+      "size_bytes": 9314,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-02-17.jpg": {
+      "size_bytes": 7038,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-12-12.jpg": {
+      "size_bytes": 6443,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-12-07.jpg": {
+      "size_bytes": 9176,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-03-09.jpg": {
+      "size_bytes": 10984,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/messages.json": {
+      "size_bytes": 114961,
+      "size_mb": 0.11
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-07-26.jpg": {
+      "size_bytes": 7133,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-cam(3).jpg": {
+      "size_bytes": 6032,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-cam(2).jpg": {
+      "size_bytes": 7534,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-04-04.jpg": {
+      "size_bytes": 8740,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-01-21.jpg": {
+      "size_bytes": 8982,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-01-09.jpg": {
+      "size_bytes": 8663,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-10-07.jpg": {
+      "size_bytes": 7954,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-09-30.jpg": {
+      "size_bytes": 6555,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-01-23.jpg": {
+      "size_bytes": 8337,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-05-24.jpg": {
+      "size_bytes": 10147,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-04-13.jpg": {
+      "size_bytes": 8315,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-06-03.jpg": {
+      "size_bytes": 7641,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-01-07.jpg": {
+      "size_bytes": 8121,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-07-10.jpg": {
+      "size_bytes": 9256,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-cam(1).jpg": {
+      "size_bytes": 8517,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-07-07.jpg": {
+      "size_bytes": 8731,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-01-15.jpg": {
+      "size_bytes": 5631,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-05-12.jpg": {
+      "size_bytes": 13427,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-03-04.jpg": {
+      "size_bytes": 4139,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-12-23.jpg": {
+      "size_bytes": 7496,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-09-07.jpg": {
+      "size_bytes": 8465,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/group_info.json": {
+      "size_bytes": 2086,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-03-13.jpg": {
+      "size_bytes": 8985,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-02-24.jpg": {
+      "size_bytes": 12884,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-12-09.jpg": {
+      "size_bytes": 9795,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-12-21.jpg": {
+      "size_bytes": 8348,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-05-04.jpg": {
+      "size_bytes": 8084,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-01-03.jpg": {
+      "size_bytes": 7753,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-10-19.jpg": {
+      "size_bytes": 8392,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-08-23.jpg": {
+      "size_bytes": 7154,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-05-01.jpg": {
+      "size_bytes": 7639,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-11-29.jpg": {
+      "size_bytes": 7451,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-11-15.jpg": {
+      "size_bytes": 13435,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-08-20.jpg": {
+      "size_bytes": 8449,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-11-14.jpg": {
+      "size_bytes": 10725,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-02-23.jpg": {
+      "size_bytes": 8540,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-04-25.jpg": {
+      "size_bytes": 9471,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-04-30.jpg": {
+      "size_bytes": 10802,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-05-07.jpg": {
+      "size_bytes": 11017,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-03-05.jpg": {
+      "size_bytes": 10209,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-06-22.jpg": {
+      "size_bytes": 12721,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2020-11-12.jpg": {
+      "size_bytes": 13531,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA-dd-_Ug/File-2021-02-25.jpg": {
+      "size_bytes": 11241,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-02-14.jpg": {
+      "size_bytes": 10203,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-06-13.jpg": {
+      "size_bytes": 21072,
+      "size_mb": 0.02
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-02-01.jpg": {
+      "size_bytes": 10074,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-04-03.jpg": {
+      "size_bytes": 9392,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-04-17.jpg": {
+      "size_bytes": 8400,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-03-25.jpg": {
+      "size_bytes": 13731,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-cam(4).jpg": {
+      "size_bytes": 8764,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-cam.png": {
+      "size_bytes": 24653,
+      "size_mb": 0.02
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-cam.jpg": {
+      "size_bytes": 8517,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-11-26.jpg": {
+      "size_bytes": 8208,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-08-13.jpg": {
+      "size_bytes": 5436,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-06-02.jpg": {
+      "size_bytes": 9223,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-04-06.jpg": {
+      "size_bytes": 8974,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-07-18.jpg": {
+      "size_bytes": 5618,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-07-30.jpg": {
+      "size_bytes": 6188,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-06-07.jpg": {
+      "size_bytes": 7581,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-12-05.jpg": {
+      "size_bytes": 6586,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-04-03.jpg": {
+      "size_bytes": 9843,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-02-15.jpg": {
+      "size_bytes": 7047,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-07-25.jpg": {
+      "size_bytes": 10018,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-10-29.jpg": {
+      "size_bytes": 6164,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-06-04.jpg": {
+      "size_bytes": 13617,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-05-23.jpg": {
+      "size_bytes": 10867,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/messages.json": {
+      "size_bytes": 121209,
+      "size_mb": 0.12
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-06-05.jpg": {
+      "size_bytes": 8394,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-cam(3).jpg": {
+      "size_bytes": 9617,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-cam(2).jpg": {
+      "size_bytes": 10441,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-03-24.jpg": {
+      "size_bytes": 7457,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-09-19.jpg": {
+      "size_bytes": 11385,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-09-14.jpg": {
+      "size_bytes": 6117,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-05-29.jpg": {
+      "size_bytes": 12320,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-cam(1).jpg": {
+      "size_bytes": 6394,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-09-03.jpg": {
+      "size_bytes": 8418,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-09-16.jpg": {
+      "size_bytes": 6464,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-01-29.jpg": {
+      "size_bytes": 4142,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-09-06.jpg": {
+      "size_bytes": 10432,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-04-25.jpg": {
+      "size_bytes": 5675,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-09-07.jpg": {
+      "size_bytes": 10996,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/group_info.json": {
+      "size_bytes": 1168,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-01-16.jpg": {
+      "size_bytes": 9881,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-05-11.jpg": {
+      "size_bytes": 6991,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-12-20.jpg": {
+      "size_bytes": 8221,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-05-04.jpg": {
+      "size_bytes": 9383,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-01-03.jpg": {
+      "size_bytes": 15828,
+      "size_mb": 0.02
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-04-23.jpg": {
+      "size_bytes": 9137,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-03-01.jpg": {
+      "size_bytes": 16834,
+      "size_mb": 0.02
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-08-08.jpg": {
+      "size_bytes": 7066,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-06-30.jpg": {
+      "size_bytes": 7900,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-06-24.jpg": {
+      "size_bytes": 12193,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-11-14.jpg": {
+      "size_bytes": 6379,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2021-02-23.jpg": {
+      "size_bytes": 5303,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-11-05.jpg": {
+      "size_bytes": 7116,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-03-07.jpg": {
+      "size_bytes": 5497,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAArPv5nbE/File-2020-08-27.jpg": {
+      "size_bytes": 7325,
+      "size_mb": 0.01
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA9D19uCE/messages.json": {
+      "size_bytes": 2056,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Groups/Space AAAA9D19uCE/group_info.json": {
+      "size_bytes": 1418,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Chat/Users/User 105171023289299284963/user_info.json": {
+      "size_bytes": 622,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Meet/ConferenceHistory/conference_history_retention.csv": {
+      "size_bytes": 28,
+      "size_mb": 0.0
+    },
+    "Takeout 1/Google Meet/ConferenceHistory/conference_history_records.csv": {
+      "size_bytes": 10827,
+      "size_mb": 0.01
+    },
+    "Takeout 1/YouTube and YouTube Music/live chats/live chats.csv": {
+      "size_bytes": 21328,
+      "size_mb": 0.02
+    },
+    "Takeout 1/YouTube and YouTube Music/comments/comments.csv": {
+      "size_bytes": 11004,
+      "size_mb": 0.01
+    },
+    "Takeout 1/YouTube and YouTube Music/video metadata/video recordings.csv": {
+      "size_bytes": 144,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/video metadata/videos.csv": {
+      "size_bytes": 1089,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/video metadata/video texts.csv": {
+      "size_bytes": 996,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/playlists/Watch later-videos.csv": {
+      "size_bytes": 3354,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/playlists/Musica de fundo para video-videos.csv": {
+      "size_bytes": 542,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/playlists/playlists.csv": {
+      "size_bytes": 455,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/subscriptions/subscriptions.csv": {
+      "size_bytes": 84536,
+      "size_mb": 0.08
+    },
+    "Takeout 1/YouTube and YouTube Music/videos/Video introduction.mp4": {
+      "size_bytes": 91232781,
+      "size_mb": 87.01
+    },
+    "Takeout 1/YouTube and YouTube Music/videos/Video Introduction(1).mp4": {
+      "size_bytes": 100281864,
+      "size_mb": 95.64
+    },
+    "Takeout 1/YouTube and YouTube Music/videos/Video Introduction(2).mp4": {
+      "size_bytes": 91902162,
+      "size_mb": 87.64
+    },
+    "Takeout 1/YouTube and YouTube Music/history/watch-history.html": {
+      "size_bytes": 57239938,
+      "size_mb": 54.59
+    },
+    "Takeout 1/YouTube and YouTube Music/history/search-history.html": {
+      "size_bytes": 49644928,
+      "size_mb": 47.35
+    },
+    "Takeout 1/YouTube and YouTube Music/music (library and uploads)/music library songs.csv": {
+      "size_bytes": 7612,
+      "size_mb": 0.01
+    },
+    "Takeout 1/YouTube and YouTube Music/channels/channel page settings.csv": {
+      "size_bytes": 41,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/channels/channel.csv": {
+      "size_bytes": 104,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/channels/channel feature data.csv": {
+      "size_bytes": 267,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/channels/channel URL configs.csv": {
+      "size_bytes": 78,
+      "size_mb": 0.0
+    },
+    "Takeout 1/YouTube and YouTube Music/channels/channel community moderation settings.csv": {
+      "size_bytes": 41,
+      "size_mb": 0.0
+    },
+    "Takeout 6/Google Photos/user-generated-memory-titles.json": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    },
+    "Takeout 6/Google Photos/shared_album_comments.json": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    },
+    "Takeout 6/Google Photos/print-subscriptions.json": {
+      "size_bytes": 3,
+      "size_mb": 0.0
+    }
+  },
+  "chunks": {
+    "Video Introduction(1)": {
+      "original_filename": "Video Introduction(1).mp4",
+      "total_chunks": 4,
+      "chunk_size": 26214400,
+      "original_size": 100281864
+    },
+    "search-history": {
+      "original_filename": "search-history.html",
+      "total_chunks": 2,
+      "chunk_size": 26214400,
+      "original_size": 49644928
+    },
+    "Video Introduction(2)": {
+      "original_filename": "Video Introduction(2).mp4",
+      "total_chunks": 4,
+      "chunk_size": 26214400,
+      "original_size": 91902162
+    },
+    "watch-history": {
+      "original_filename": "watch-history.html",
+      "total_chunks": 3,
+      "chunk_size": 26214400,
+      "original_size": 57239938
+    },
+    "Video introduction": {
+      "original_filename": "Video introduction.mp4",
+      "total_chunks": 4,
+      "chunk_size": 26214400,
+      "original_size": 91232781
+    },
+    "MyActivity": {
+      "original_filename": "MyActivity.html",
+      "total_chunks": 2,
+      "chunk_size": 26214400,
+      "original_size": 40671559
+    },
+    "All mail Including Spam and Trash-002": {
+      "original_filename": "All mail Including Spam and Trash-002.mbox",
+      "total_chunks": 268,
+      "chunk_size": 26214400,
+      "original_size": 7012162925
+    },
+    "Obsidian": {
+      "original_filename": "Obsidian.wav",
+      "total_chunks": 2,
+      "chunk_size": 26214400,
+      "original_size": 47525804
+    }
+  }
+}
