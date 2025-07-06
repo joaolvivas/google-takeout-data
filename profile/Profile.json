@@ -1,0 +1,15 @@
+{
+  "name": {
+    "givenName": "João",
+    "familyName": "Lucas",
+    "formattedName": "João Lucas"
+  },
+  "displayName": "João Lucas",
+  "emails": [{
+    "value": "jlucasvivass@gmail.com"
+  }],
+  "birthday": "1996-07-01",
+  "gender": {
+    "type": "male"
+  }
+}
